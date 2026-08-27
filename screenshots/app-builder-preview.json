@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Wake",
+      "hasCanvas": true,
+      "bodyTextLen": 95,
+      "bodyTextHash": "3d7616a378c00eb1a4220a0bd39f516fd70407859e3727e6ed2ab8393589a8d1",
+      "bodyTextPrefix": "Wake Drag to send a wave. Clear Viscosity 32 Wave strength 64 CO",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Wake",
+      "hasCanvas": true,
+      "bodyTextLen": 95,
+      "bodyTextHash": "3d7616a378c00eb1a4220a0bd39f516fd70407859e3727e6ed2ab8393589a8d1",
+      "bodyTextPrefix": "Wake Drag to send a wave. Clear Viscosity 32 Wave strength 64 CO",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
